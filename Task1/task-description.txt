@@ -1,0 +1,9 @@
+Task 1:
+Task Description:
+Build a parser that can extract building/business name from a given address
+building/business name might appears in various format within an address.
+Example input address and respective expected building/business name are given in 'sample_building_name_extracted.csv' file
+
+Sample Road Name List also provided in 'names_sample.csv' 
+Based on that road list you can train custom road model to extract building/business name given in 'user_raw_data.csv'
+
